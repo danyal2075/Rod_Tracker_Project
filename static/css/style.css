@@ -1,0 +1,47 @@
+section {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%
+}
+#heading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 10px;
+}
+
+#heading h3 {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+body {
+  background-color: #2e940e;
+}
+
+button {
+  background-color: #0a149e;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+h1 {
+  color: #000000;
+}
+h2 {
+  color: #000000;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 60%;
+}
